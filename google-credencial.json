@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cooknator-380701",
+  "private_key_id": "d358e4f992a842cc818b7bb749234b007bc54057",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8X2+sA6Y4PmnR\nw7Dc+yo1zF8uyLE3GgY/btJ9qF5wjNM05YYoaDl2Z29ezXHaCyamY+6ttshzQN6N\n+O4FoINglEBuVD5l/PYPiV8jnGFXvKIJuZTqldS6GfkJ2/9sXjk1vgXuy/fJrFK7\n5ZeRXtxOKYzFwcNQU1TY+PCS3JDq2ieY0fj818ra3IZWzDGNStkh0mvvDe3mWoxS\nT1Gb3I0ENLK2G1xQbb1w6vbg2DunLk8uMkQd1goZ7V00mM3gnFY2lpvTAj9TJo89\n+bwQ0qSOg2Gto2Iwp5l4Dj1krn0jzXYrslnbuo8EbjE2YMalr/xjv1SMBWTDXDl7\nNBUyCoMvAgMBAAECggEAEJEFct0Aoaeo33V/Y3UvWXs3emzUsQziicecTsgfmMm5\nysgjdqrxNXQ+pi7D7tzWMayjkWF8MC6p+VXFe8yJtqpdyZYyb/5sQXeKXMkPAov+\nEC7jEDJ3JUV4J8wnotyH2YMfEHOdv33JP5R0h6i5D/gK1QWHwNO4qDr/JVtX31+D\nOy8J9wh35CJnpIpIKqUkeHRqeqBFlLNbi7MtOx9LNWddas5/KR0MKTq5CurHzNIQ\n3S4Ey58XljEqSnPZ37DPcI31ctioc3/+uJwQWIz9pSOsdIldlknVUFNbLJOYryVf\nRps1wNmj8ov8Zi6K6KqKVGtIDqq/p39vgn2fawGY4QKBgQD8Y8IliYrygCraN/Ns\nVCqLvDDCEz7OonoyVYzTgUvWs9Qy70w8rpHHT0YGCDt9u5atMqVW+KsZjimDwLYR\nq7UKNBkNbqMBR5xcGfsSb77pSldDpekSuJx0JigrS1nhwn7Ebptk6MmDjl5nVYFS\nx6h1lp6/lJMkVLBcjTPK8kLvPwKBgQC/EUAZiTFibqN4FP1eF5A9oeEyRgx+/341\n39ttjYkSnAHMCBM3CsaZkhTjF9bSOKzVURnrT3yNcNwfpa9JaUT2/uth6Rj+DJYE\n+utbvYhrPMUxhQEPVSDpnhZMnOL2yQRDf6fEZkIRoHAKc7rorCysaKVC7qVNHA2j\nMSM/5t9gEQKBgH6S/RPcNc3GDzefJbonP6sSdxVtl2sDuuqxUs3jowgK6ZmdvwsT\ntVJSZFi0GjnFMRytMJQ8Y3qOfC1yIR0dks6KMCI3YRJMOpNKCEtHtWPD/52SgB/+\na6AoXq7PvETnSLH0koP55s3OQXPrQs8kCEzoe7ayqVRoEIZp3haihoT7AoGALg+D\ni2RmcltHrzAoMGGv1RvMRSlb49XF4Ej6BfwD2mefi0c7Ep7XZ7gurtxVXlJpX/dw\nLyj3VsWpWzu++QyWopCrv+vIqZ3xIHw49uHHHEsHIrv0mHSmPYttxsRfdqzZCUih\n8hfQv50UxYBGw8aV8m47wNn1IZSsuPWkkMgge3ECgYEAzZIR2KXa5sNeVKZmygOk\nOhylYFj05joOm9fcZt3FF30rjYeuIFdBFjaTveVbUGs5H8xjf+JWgfWfkaua8iS8\ntV0I/aZAng9UMCxufpTJvwd2M6oOPbHKhstISVVwHryTjLaL5L3IANR8a5lSub/Y\nRnMzJ+WmWtqta2wiYx5Pvv0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cooknator@cooknator-380701.iam.gserviceaccount.com",
+  "client_id": "115012670100342218814",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cooknator%40cooknator-380701.iam.gserviceaccount.com"
+}
